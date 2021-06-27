@@ -1,5 +1,10 @@
 # day7
 
+[flexible textarea hight](https://reffect.co.jp/vue/textarea_resize_vue_js)
+
+## 学んだこと
+
+
 ## Project setup
 ```
 yarn install
